@@ -1,0 +1,29 @@
+{
+  "name": "RH-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^7.0.3",
+    "@angular/compiler": "^7.0.3",
+    "@angular/core": "^7.0.3",
+    "@angular/platform-browser": "^7.0.3",
+    "@angular/platform-browser-dynamic": "^7.0.3",
+    "core-js": "^2.5.7",
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.3.3",
+    "systemjs": "^2.1.1",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "typescript": "^3.1.6"
+  }
+}
